@@ -2,7 +2,7 @@
 /*
  * main - main block
  */
-int main(void);
+int main(void)
 {
 /*
  * puts - display output
