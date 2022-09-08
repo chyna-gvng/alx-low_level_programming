@@ -1,13 +1,12 @@
 #include<stdio.h>
-int main(void)
+/*
+ * main - main block
+ */
+int main(void);
 {
 /*
- * String Iinitialisation
+ * puts - display output
  */
-	char Mystr[] = "Programming is like building a multilingual puzzle";
-/*
- * Print String
- */
-	puts(Mystr);
-	return (0);
+puts("Programming is like building a multilingual puzzle\n");
+return (0);
 }
