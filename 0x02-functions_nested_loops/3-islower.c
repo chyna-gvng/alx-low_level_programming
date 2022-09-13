@@ -1,20 +1,15 @@
 #include "main.h"
 /**
- * main - check code for lowercase characters.
- *
- * Return: Always 0.
+ * _islower - function that checks for a lowercase character.
+ * @l: character being tested.
+ * Return: Always 0
  */
- 
-int main(void)
-{
-    int r;
 
-    r = _islower('H');
-    _putchar(r + '0');
-    r = _islower('o');
-    _putchar(r + '0');
-    r = _islower(108);
-    _putchar(r + '0');
-    _putchar('\n');
-    return (0);
+int _islower(int l)
+{
+
+if (l >= 97 && l <= 122)
+return (1);
+else
+return (0);
 }
