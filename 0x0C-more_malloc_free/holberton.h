@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-ce498cfb59b2.js"></script>
   
 
-  <title>holbertonschool-low_level_programming/101-mul.c at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-low_level_programming · GitHub</title>
+  <title>holbertonschool-low_level_programming/holberton.h at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-low_level_programming · GitHub</title>
 
 
 
     
 
-  <meta name="request-id" content="AA14:143C:69B229:A146FB:633EFFB1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b3ae1e217688fa4898574d54f9d44b824ee76490da5f81d0e153bc2907f7f142" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBQTE0OjE0M0M6NjlCMjI5OkExNDZGQjo2MzNFRkZCMSIsInZpc2l0b3JfaWQiOiI1ODU3NzU5MTYzNDE2NzcyNTI5IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="9237f21b6c85b089c1e78fa1d884b0381e78a9ea1c4e17ceec4c783f372135a5" data-pjax-transient="true"/>
+  <meta name="request-id" content="AA16:30D0:77524E:B46BF0:633EFFD2" data-pjax-transient="true"/><meta name="html-safe-nonce" content="61588811a43b5654ca71a7a3ef49928ff8ad1b4e81f422c02d8f759584ab5267" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBQTE2OjMwRDA6Nzc1MjRFOkI0NkJGMDo2MzNFRkZEMiIsInZpc2l0b3JfaWQiOiI3NzI0ODI0NzEwMTkzNTQ1MTcwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="6c13e33362cb35ffd7cf11d67580ab7adad3fd224793bcf542fdfa3a6ee339de" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:148534714" data-turbo-transient>
 
@@ -106,13 +106,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Low-level programming and algorithm projects for Holberton School Year 1 - holbertonschool-low_level_programming/101-mul.c at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-low_level_programming">
+      <meta name="description" content="Low-level programming and algorithm projects for Holberton School Year 1 - holbertonschool-low_level_programming/holberton.h at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-low_level_programming">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/5b3f6a14b4ed4788ae76bcfd57a407275a7f05cbfefc428e577c6e53ff50d026/bdbaraban/holbertonschool-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="holbertonschool-low_level_programming/101-mul.c at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-low_level_programming" /><meta name="twitter:description" content="Low-level programming and algorithm projects for Holberton School Year 1 - holbertonschool-low_level_programming/101-mul.c at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-lo..." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/5b3f6a14b4ed4788ae76bcfd57a407275a7f05cbfefc428e577c6e53ff50d026/bdbaraban/holbertonschool-low_level_programming" /><meta property="og:image:alt" content="Low-level programming and algorithm projects for Holberton School Year 1 - holbertonschool-low_level_programming/101-mul.c at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-lo..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="holbertonschool-low_level_programming/101-mul.c at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-low_level_programming" /><meta property="og:url" content="https://github.com/bdbaraban/holbertonschool-low_level_programming" /><meta property="og:description" content="Low-level programming and algorithm projects for Holberton School Year 1 - holbertonschool-low_level_programming/101-mul.c at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-lo..." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/5b3f6a14b4ed4788ae76bcfd57a407275a7f05cbfefc428e577c6e53ff50d026/bdbaraban/holbertonschool-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="holbertonschool-low_level_programming/holberton.h at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-low_level_programming" /><meta name="twitter:description" content="Low-level programming and algorithm projects for Holberton School Year 1 - holbertonschool-low_level_programming/holberton.h at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-..." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/5b3f6a14b4ed4788ae76bcfd57a407275a7f05cbfefc428e577c6e53ff50d026/bdbaraban/holbertonschool-low_level_programming" /><meta property="og:image:alt" content="Low-level programming and algorithm projects for Holberton School Year 1 - holbertonschool-low_level_programming/holberton.h at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="holbertonschool-low_level_programming/holberton.h at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-low_level_programming" /><meta property="og:url" content="https://github.com/bdbaraban/holbertonschool-low_level_programming" /><meta property="og:description" content="Low-level programming and algorithm projects for Holberton School Year 1 - holbertonschool-low_level_programming/holberton.h at 83a29e2538fbb76a68299839e7969a07154d97f6 · bdbaraban/holbertonschool-..." />
       
     <link rel="assets" href="https://github.githubassets.com/">
 
@@ -141,7 +141,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -194,7 +194,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f1aa0ab450d90a3d797737857080baad1200f68db9cb7ba3cfa2bf0c66aaa722"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="05e5dffc278418e45fca1e49c7e850d393a59f5333049fcb63fc3e6f8297af92"
           >
             Sign&nbsp;up
           </a>
@@ -226,7 +226,7 @@
         <ul class="list-style-none f5 px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Actions;&quot;}" href="/features/actions">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Actions;&quot;}" href="/features/actions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-workflow color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M1 3a2 2 0 012-2h6.5a2 2 0 012 2v6.5a2 2 0 01-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 012-2H21a2 2 0 012 2V21a2 2 0 01-2 2h-6.5a2 2 0 01-2-2v-2.5H8.437A2.938 2.938 0 015.5 15.562V11.5H3a2 2 0 01-2-2V3zm2-.5a.5.5 0 00-.5.5v6.5a.5.5 0 00.5.5h6.5a.5.5 0 00.5-.5V3a.5.5 0 00-.5-.5H3zM14.5 14a.5.5 0 00-.5.5V21a.5.5 0 00.5.5H21a.5.5 0 00.5-.5v-6.5a.5.5 0 00-.5-.5h-6.5z"></path>
 </svg>
@@ -239,7 +239,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Packages;&quot;}" href="/features/packages">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Packages;&quot;}" href="/features/packages">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-package color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M12.876.64a1.75 1.75 0 00-1.75 0l-8.25 4.762a1.75 1.75 0 00-.875 1.515v9.525c0 .625.334 1.203.875 1.515l8.25 4.763a1.75 1.75 0 001.75 0l8.25-4.762a1.75 1.75 0 00.875-1.516V6.917a1.75 1.75 0 00-.875-1.515L12.876.639zm-1 1.298a.25.25 0 01.25 0l7.625 4.402-7.75 4.474-7.75-4.474 7.625-4.402zM3.501 7.64v8.803c0 .09.048.172.125.216l7.625 4.402v-8.947L3.501 7.64zm9.25 13.421l7.625-4.402a.25.25 0 00.125-.216V7.639l-7.75 4.474v8.947z"></path>
 </svg>
@@ -252,7 +252,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Security;&quot;}" href="/features/security">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Security;&quot;}" href="/features/security">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
     <path d="M16.53 9.78a.75.75 0 00-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 00-1.06 1.06l2.5 2.5a.75.75 0 001.06 0l5-5z"></path><path fill-rule="evenodd" d="M12.54.637a1.75 1.75 0 00-1.08 0L3.21 3.312A1.75 1.75 0 002 4.976V10c0 6.19 3.77 10.705 9.401 12.83.386.145.812.145 1.198 0C18.229 20.704 22 16.19 22 10V4.976c0-.759-.49-1.43-1.21-1.664L12.54.637zm-.617 1.426a.25.25 0 01.154 0l8.25 2.676a.25.25 0 01.173.237V10c0 5.461-3.28 9.483-8.43 11.426a.2.2 0 01-.14 0C6.78 19.483 3.5 15.46 3.5 10V4.976c0-.108.069-.203.173-.237l8.25-2.676z"></path>
 </svg>
@@ -265,7 +265,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-codespaces color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0118.75 13H5.25a1.75 1.75 0 01-1.75-1.75v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H5.25zM1.5 15.75c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 01-1.75 1.75H3.25a1.75 1.75 0 01-1.75-1.75v-4zm1.75-.25a.25.25 0 00-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 00.25-.25v-4a.25.25 0 00-.25-.25H3.25z"></path><path fill-rule="evenodd" d="M10 17.75a.75.75 0 01.75-.75h6.5a.75.75 0 010 1.5h-6.5a.75.75 0 01-.75-.75zm-4 0a.75.75 0 01.75-.75h.5a.75.75 0 010 1.5h-.5a.75.75 0 01-.75-.75z"></path>
 </svg>
@@ -278,7 +278,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Copilot;&quot;}" href="/features/copilot">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Copilot;&quot;}" href="/features/copilot">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
     <path d="M9.75 14a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75zm4.5 0a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75z"></path><path fill-rule="evenodd" d="M12 2c-2.214 0-4.248.657-5.747 1.756a7.43 7.43 0 00-.397.312c-.584.235-1.077.546-1.474.952-.85.87-1.132 2.037-1.132 3.368 0 .368.014.733.052 1.086l-.633 1.478-.043.022A4.75 4.75 0 000 15.222v1.028c0 .529.31.987.564 1.293.28.336.637.653.967.918a13.262 13.262 0 001.299.911l.024.015.006.004.04.025.144.087c.124.073.304.177.535.3.46.245 1.122.57 1.942.894C7.155 21.344 9.439 22 12 22s4.845-.656 6.48-1.303c.819-.324 1.481-.65 1.941-.895a13.797 13.797 0 00.68-.386l.039-.025.006-.004.024-.015a8.829 8.829 0 00.387-.248c.245-.164.577-.396.912-.663.33-.265.686-.582.966-.918.256-.306.565-.764.565-1.293v-1.028a4.75 4.75 0 00-2.626-4.248l-.043-.022-.633-1.478c.038-.353.052-.718.052-1.086 0-1.331-.282-2.499-1.132-3.368-.397-.406-.89-.717-1.474-.952a7.386 7.386 0 00-.397-.312C16.248 2.657 14.214 2 12 2zm-8 9.654l.038-.09c.046.06.094.12.145.177.793.9 2.057 1.259 3.782 1.259 1.59 0 2.739-.544 3.508-1.492.131-.161.249-.331.355-.508a32.948 32.948 0 00.344 0c.106.177.224.347.355.508.77.948 1.918 1.492 3.508 1.492 1.725 0 2.989-.359 3.782-1.259.05-.057.099-.116.145-.177l.038.09v6.669a17.618 17.618 0 01-2.073.98C16.405 19.906 14.314 20.5 12 20.5c-2.314 0-4.405-.594-5.927-1.197A17.62 17.62 0 014 18.323v-6.67zm6.309-1.092a2.35 2.35 0 01-.38.374c-.437.341-1.054.564-1.964.564-1.573 0-2.292-.337-2.657-.75-.192-.218-.331-.506-.423-.89-.091-.385-.135-.867-.135-1.472 0-1.14.243-1.847.705-2.32.477-.487 1.319-.861 2.824-1.024 1.487-.16 2.192.138 2.533.529l.008.01c.264.308.429.806.43 1.568v.031a7.203 7.203 0 01-.09 1.079c-.143.967-.406 1.754-.851 2.301zm2.504-2.497a7.174 7.174 0 01-.063-.894v-.02c.001-.77.17-1.27.438-1.578.341-.39 1.046-.69 2.533-.529 1.506.163 2.347.537 2.824 1.025.462.472.705 1.179.705 2.319 0 1.21-.174 1.926-.558 2.361-.365.414-1.084.751-2.657.751-1.21 0-1.902-.393-2.344-.938-.475-.584-.742-1.44-.878-2.497z"></path>
 </svg>
@@ -291,7 +291,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Code review;&quot;}" href="/features/code-review">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Code review;&quot;}" href="/features/code-review">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-review color-fg-subtle mr-3">
     <path d="M10.3 6.74a.75.75 0 01-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 11-1.02 1.1l-3.5-3.25a.75.75 0 010-1.1l3.5-3.25a.75.75 0 011.06.04zm3.44 1.06a.75.75 0 111.02-1.1l3.5 3.25a.75.75 0 010 1.1l-3.5 3.25a.75.75 0 11-1.02-1.1l2.908-2.7-2.908-2.7z"></path><path fill-rule="evenodd" d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 01-1.75 1.75h-9.69l-3.573 3.573A1.457 1.457 0 015 21.043V18.5H3.25a1.75 1.75 0 01-1.75-1.75V4.25zM3.25 4a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 01.75.75v3.19l3.72-3.72a.75.75 0 01.53-.22h10a.25.25 0 00.25-.25V4.25a.25.25 0 00-.25-.25H3.25z"></path>
 </svg>
@@ -304,7 +304,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Issues;&quot;}" href="/features/issues">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Issues;&quot;}" href="/features/issues">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-issue-opened color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0zM12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm0 13a2 2 0 100-4 2 2 0 000 4z"></path>
 </svg>
@@ -317,7 +317,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Discussions;&quot;}" href="/features/discussions">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Discussions;&quot;}" href="/features/discussions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M1.75 1A1.75 1.75 0 000 2.75v9.5C0 13.216.784 14 1.75 14H3v1.543a1.457 1.457 0 002.487 1.03L8.061 14h6.189A1.75 1.75 0 0016 12.25v-9.5A1.75 1.75 0 0014.25 1H1.75zM1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v9.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 15.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-9.5z"></path><path d="M22.5 8.75a.25.25 0 00-.25-.25h-3.5a.75.75 0 010-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0122.25 20H21v1.543a1.457 1.457 0 01-2.487 1.03L15.939 20H10.75A1.75 1.75 0 019 18.25v-1.465a.75.75 0 011.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 01.53.22l2.72 2.72v-2.19a.75.75 0 01.75-.75h2a.25.25 0 00.25-.25v-9.5z"></path>
 </svg>
@@ -334,14 +334,14 @@
             <li class="h4 color-fg-default my-1">Explore</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:All features;&quot;}" href="/features">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:All features;&quot;}" href="/features">
       All features
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
       Documentation
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -350,7 +350,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
       GitHub Skills
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -359,7 +359,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Blog;&quot;}" href="https://github.blog">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Blog;&quot;}" href="https://github.blog">
       Blog
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -384,21 +384,21 @@
             <li class="h4 color-fg-default my-1">By Plan</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Enterprise;&quot;}" href="/enterprise">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Enterprise;&quot;}" href="/enterprise">
       Enterprise
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Teams;&quot;}" href="/team">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Teams;&quot;}" href="/team">
       Teams
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Compare all&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Compare all;&quot;}" href="/pricing#compare-features">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Compare all&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Compare all;&quot;}" href="/pricing#compare-features">
       Compare all
 
     
@@ -409,7 +409,7 @@
             <li class="h4 color-fg-default my-1">By Solution</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="https://resources.github.com/ci-cd/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="https://resources.github.com/ci-cd/">
       CI/CD &amp; Automation
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -418,7 +418,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
       DevOps
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -427,7 +427,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
       DevSecOps
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -440,14 +440,14 @@
             <li class="h4 color-fg-default my-1">Case Studies</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
       Customer Stories
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Resources&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Resources;&quot;}" href="https://resources.github.com/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Resources&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Resources;&quot;}" href="https://resources.github.com/">
       Resources
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -471,7 +471,7 @@
         <ul class="list-style-none f5 border-bottom pb-3 mb-3">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       
       <div>
         <div class="color-fg-default h4">GitHub Sponsors</div>
@@ -485,7 +485,7 @@
         <ul class="list-style-none f5 border-bottom pb-3 mb-3">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:The ReadME Project;&quot;}" href="/readme">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:The ReadME Project;&quot;}" href="/readme">
       
       <div>
         <div class="color-fg-default h4">The ReadME Project</div>
@@ -500,21 +500,21 @@
             <li class="h4 color-fg-default my-1">Repositories</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Topics;&quot;}" href="/topics">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Trending;&quot;}" href="/trending">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Collections;&quot;}" href="/collections">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 
     
@@ -526,7 +526,7 @@
 
 
                 <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
+    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_page:/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
 </li>
 
             </ul>
@@ -562,7 +562,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="4clifv9G/sx8iwkVJd1GecfFv29FFXidClhm4I1as5a1AD7rWzXHyeINkoc0R6QXSed5iPhHWilGzc0Q+SUWtg==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="XhQdsyKk2UYzWPE7cSXzmkYsJOgwj+VaLFMIGgkHheoqpZmUuIIHrpGd6T5kyfsz2lWOEIBqoaSM0zwo+xsE4Q==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -742,9 +742,9 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fbdbaraban%2Fholbertonschool-low_level_programming%2Fblob%2F83a29e2538fbb76a68299839e7969a07154d97f6%2F0x0B-more_malloc_free%2F101-mul.c"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fbdbaraban%2Fholbertonschool-low_level_programming%2Fblob%2F83a29e2538fbb76a68299839e7969a07154d97f6%2F0x0B-more_malloc_free%2Fholberton.h"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="30befe9a6bacfb01630b6fc51eb1de8b1a03513d1eecd4ecc048b11e0bcd76c5"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c801e69287a7c3c46639ddd84dcd7d0d73bc784ef24c8560180473ed40a167a6"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
@@ -752,7 +752,7 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=bdbaraban%2Fholbertonschool-low_level_programming"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="30befe9a6bacfb01630b6fc51eb1de8b1a03513d1eecd4ecc048b11e0bcd76c5"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c801e69287a7c3c46639ddd84dcd7d0d73bc784ef24c8560180473ed40a167a6"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -853,14 +853,14 @@
       
 
   <li>
-          <a href="/login?return_to=%2Fbdbaraban%2Fholbertonschool-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="64ef54601d29ac3ab9a498f3d43d1d82bec1b59af52e0670d2806ab8c41b526f" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+          <a href="/login?return_to=%2Fbdbaraban%2Fholbertonschool-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8b4080cb667ec66fe15c5119595b8fcb1a2afed8f3dc72f5cac18aebb9595abe" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" href="/login?return_to=%2Fbdbaraban%2Fholbertonschool-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:148534714,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0daca9020389973a4e218652cff4907c177a1bce859b675d912f4774d15309b3" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" href="/login?return_to=%2Fbdbaraban%2Fholbertonschool-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:148534714,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a2519beacc1a7326e8a58740bab0b8e5eae08fa0fb6948d063720465fd036c39" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="289" data-view-component="true" class="Counter">289</span>
@@ -869,7 +869,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fbdbaraban%2Fholbertonschool-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:148534714,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d437db3a764d343da2082edcf1ab6d28622f95ca4e9103f47769f7fd93e6a726" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fbdbaraban%2Fholbertonschool-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:148534714,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ba121df52f28817202f21684c87b17b1fde1bc63d109fb62e1fb8e980e87e2f0" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1047,7 +1047,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1055,7 +1055,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:148534714,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="13bfbb48a7840cd9c75764ca7174598979822cdd692fcfd81080c352e5116364">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:148534714,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ba78ae5cc4caf9a4305f93b06b5600e4e6d79d91af4b29d8304976758019f8a1">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1134,7 +1134,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/{{ urlEncodedRefName }}/0x0B-more_malloc_free/101-mul.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/{{ urlEncodedRefName }}/0x0B-more_malloc_free/holberton.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1174,7 +1174,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/{{ urlEncodedRefName }}/0x0B-more_malloc_free/101-mul.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/{{ urlEncodedRefName }}/0x0B-more_malloc_free/holberton.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1205,7 +1205,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/bdbaraban/holbertonschool-low_level_programming/tree/83a29e2538fbb76a68299839e7969a07154d97f6"><span>holbertonschool-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/bdbaraban/holbertonschool-low_level_programming/tree/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free"><span>0x0B-more_malloc_free</span></a></span><span class="separator">/</span><strong class="final-path">101-mul.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/bdbaraban/holbertonschool-low_level_programming/tree/83a29e2538fbb76a68299839e7969a07154d97f6"><span>holbertonschool-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/bdbaraban/holbertonschool-low_level_programming/tree/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free"><span>0x0B-more_malloc_free</span></a></span><span class="separator">/</span><strong class="final-path">holberton.h</strong>
   </h2>
     <a href="/bdbaraban/holbertonschool-low_level_programming/find/83a29e2538fbb76a68299839e7969a07154d97f6" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -1216,7 +1216,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:148534714,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="045c1b226e8f2c09c76417648c4f2d6ca449922d6d65d0c5e770c533c828c9ef" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/bdbaraban/holbertonschool-low_level_programming/find/83a29e2538fbb76a68299839e7969a07154d97f6">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:148534714,&quot;originating_url&quot;:&quot;https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f4f946fb49ab9aea788d4a14db4a00d37b32cd238db734c96c85857f80c0fd16" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/bdbaraban/holbertonschool-low_level_programming/find/83a29e2538fbb76a68299839e7969a07154d97f6">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1228,13 +1228,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x0B-more_malloc_free/101-mul.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x0B-more_malloc_free/holberton.h" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1277,23 +1277,23 @@
             <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/234761/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/234761">234761</a>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="Fixed malloc sizing + updated documentation" class="Link--secondary" href="/bdbaraban/holbertonschool-low_level_programming/commit/ebb027f59e26b00fdbd6b52919c7a04c9d4a1da9">Fixed malloc sizing + updated documentation</a>
+                <a data-pjax="true" title="Updated include guard macro identifier" class="Link--secondary" href="/bdbaraban/holbertonschool-low_level_programming/commit/3e0a642a3f19ee9c11a586676d546c4f6d046cf3">Updated include guard macro identifier</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/bdbaraban/holbertonschool-low_level_programming/commit/ebb027f59e26b00fdbd6b52919c7a04c9d4a1da9/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/bdbaraban/holbertonschool-low_level_programming/commit/3e0a642a3f19ee9c11a586676d546c4f6d046cf3/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/bdbaraban/holbertonschool-low_level_programming/commit/ebb027f59e26b00fdbd6b52919c7a04c9d4a1da9" data-pjax>ebb027f</a>
-            <span itemprop="dateModified"><relative-time datetime="2018-10-14T02:13:32Z" class="no-wrap">Oct 14, 2018</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/bdbaraban/holbertonschool-low_level_programming/commit/3e0a642a3f19ee9c11a586676d546c4f6d046cf3" data-pjax>3e0a642</a>
+            <span itemprop="dateModified"><relative-time datetime="2018-10-17T01:29:05Z" class="no-wrap">Oct 17, 2018</relative-time></span>
           </span>
 
-          <a data-pjax href="/bdbaraban/holbertonschool-low_level_programming/commits/master/0x0B-more_malloc_free/101-mul.c" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/bdbaraban/holbertonschool-low_level_programming/commits/3e0a642a3f19ee9c11a586676d546c4f6d046cf3/0x0B-more_malloc_free/holberton.h" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -1319,7 +1319,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/bdbaraban/holbertonschool-low_level_programming/contributors-list/master/0x0B-more_malloc_free/101-mul.c" preload>
+        src="/bdbaraban/holbertonschool-low_level_programming/contributors-list/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -1359,23 +1359,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      237 lines (198 sloc)
+      18 lines (15 sloc)
       <span class="file-info-divider"></span>
-    4.62 KB
+    502 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a href="/bdbaraban/holbertonschool-low_level_programming/raw/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
-</a>          <a href="/bdbaraban/holbertonschool-low_level_programming/blame/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
+        <a href="/bdbaraban/holbertonschool-low_level_programming/raw/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
+</a>          <a href="/bdbaraban/holbertonschool-low_level_programming/blame/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/bdbaraban/holbertonschool-low_level_programming/edit/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="T7q6iD10WL14wE570vxN9tiJFODfqbuqWhGkIZmqYAP0bAIRDBUg-lp8hrVD5jYmee1q7vMSwOnqigiV-FdWkQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/bdbaraban/holbertonschool-low_level_programming/edit/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PPpR68QNXeK_ObVVTafwC7sbCGo2KN0IIzMGz_SpQVR5WjcTUmX0dESBs2ycl2ro5eKa0a5U47ZhkDf8usUnfg" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -1385,7 +1385,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/bdbaraban/holbertonschool-low_level_programming/edit/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VIoWAn20Meh69q0SLXP3C-N-do98-dAHQr9MRKFLxz_vXK6bTNVJr1hKZdy8aYzbQhoIgVBCq0TyJODwwLbxrQ" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/bdbaraban/holbertonschool-low_level_programming/edit/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TbMw0UdijMLm4zuv0ekTPEi3o7CaJMnuZDo3xoieuu8IE1Yp0QolVB1bPZYA2YnfFk4xCwJY91AmmQb1xvLcxQ" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1430,14 +1430,14 @@
             <li>
             </li>
           <li>
-            <a class="dropdown-item" href="/bdbaraban/holbertonschool-low_level_programming/raw/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c">
+            <a class="dropdown-item" href="/bdbaraban/holbertonschool-low_level_programming/raw/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/bdbaraban/holbertonschool-low_level_programming/blame/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c">
+              <a class="dropdown-item" href="/bdbaraban/holbertonschool-low_level_programming/blame/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h">
                 View blame
               </a>
             </li>
@@ -1477,993 +1477,81 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x0B-more_malloc_free/101-mul.c">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x0B-more_malloc_free/holberton.h">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">ifndef</span> HOLBERTON_H</td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * File: 101-mul.c</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">HOLBERTON_H</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Auth: Brennan D Baraban</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * File: holberton.h</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>holberton.h<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Auth: Brennan D Baraban</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdlib.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Desc: Header file containing prototypes for all functions</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdio.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *       used in the 0x0B-more_malloc_free directory.</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">find_len</span>(<span class="pl-k">char</span> *str);</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">create_xarray</span>(<span class="pl-k">int</span> size);</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_putchar</span>(<span class="pl-k">char</span> c);</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">iterate_zeroes</span>(<span class="pl-k">char</span> *str);</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> *<span class="pl-en">malloc_checked</span>(<span class="pl-k">unsigned</span> <span class="pl-k">int</span> b);</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">get_prod</span>(<span class="pl-k">char</span> *prod, <span class="pl-k">char</span> *mult, <span class="pl-k">int</span> digit, <span class="pl-k">int</span> zeroes);</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">string_nconcat</span>(<span class="pl-k">char</span> *s1, <span class="pl-k">char</span> *s2, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> n);</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">add_nums</span>(<span class="pl-k">char</span> *final_prod, <span class="pl-k">char</span> *next_prod, <span class="pl-k">int</span> next_len);</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> *<span class="pl-en">_calloc</span>(<span class="pl-k">unsigned</span> <span class="pl-k">int</span> nmemb, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> size);</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> *<span class="pl-en">array_range</span>(<span class="pl-k">int</span> min, <span class="pl-k">int</span> max);</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> *<span class="pl-en">_realloc</span>(<span class="pl-k">void</span> *ptr, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> old_size, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> new_size);</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * find_len - Finds the length of a string.</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @str: The string to be measured.</span></td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: The length of the string.</span></td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">find_len</span>(<span class="pl-k">char</span> *str)</td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> len = <span class="pl-c1">0</span>;</td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (*str++)</td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">		len++;</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (len);</td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * create_xarray - Creates an array of chars and initializes it with</span></td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *                 the character &#39;x&#39;. Adds a terminating null byte.</span></td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @size: The size of the array to be initialized.</span></td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Description: If there is insufficient space, the</span></td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *              function exits with a status of 98.</span></td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: A pointer to the array.</span></td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">create_xarray</span>(<span class="pl-k">int</span> size)</td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">char</span> *array;</td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> <span class="pl-c1">index</span>;</td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">	array = <span class="pl-c1">malloc</span>(<span class="pl-k">sizeof</span>(<span class="pl-k">char</span>) * size);</td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (array == <span class="pl-c1">NULL</span>)</td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span>(<span class="pl-c1">98</span>);</td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> (<span class="pl-c1">index</span> = <span class="pl-c1">0</span>; <span class="pl-c1">index</span> &lt; (size - <span class="pl-c1">1</span>); <span class="pl-c1">index</span>++)</td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">		array[<span class="pl-c1">index</span>] = <span class="pl-s"><span class="pl-pds">&#39;</span>x<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">	array[<span class="pl-c1">index</span>] = <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-cce">\0</span><span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (array);</td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * iterate_zeroes - Iterates through a string of numbers containing</span></td>
-        </tr>
-        <tr>
-          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *                  leading zeroes until it hits a non-zero number.</span></td>
-        </tr>
-        <tr>
-          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @str: The string of numbers to be iterate through.</span></td>
-        </tr>
-        <tr>
-          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
-        </tr>
-        <tr>
-          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
-          <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: A pointer to the next non-zero element.</span></td>
-        </tr>
-        <tr>
-          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
-          <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
-          <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">iterate_zeroes</span>(<span class="pl-k">char</span> *str)</td>
-        </tr>
-        <tr>
-          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
-          <td id="LC67" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
-          <td id="LC68" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (*str &amp;&amp; *str == <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>)</td>
-        </tr>
-        <tr>
-          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
-          <td id="LC69" class="blob-code blob-code-inner js-file-line">		str++;</td>
-        </tr>
-        <tr>
-          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
-          <td id="LC70" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
-          <td id="LC71" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (str);</td>
-        </tr>
-        <tr>
-          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
-          <td id="LC72" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
-          <td id="LC73" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
-          <td id="LC74" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
-        </tr>
-        <tr>
-          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
-          <td id="LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * get_digit - Converts a digit character to a corresponding int.</span></td>
-        </tr>
-        <tr>
-          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
-          <td id="LC76" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @c: The character to be converted.</span></td>
-        </tr>
-        <tr>
-          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
-          <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
-        </tr>
-        <tr>
-          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
-          <td id="LC78" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Description: If c is a non-digit, the function</span></td>
-        </tr>
-        <tr>
-          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
-          <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *              exits with a status of 98.</span></td>
-        </tr>
-        <tr>
-          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
-          <td id="LC80" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: The converted int.</span></td>
-        </tr>
-        <tr>
-          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
-          <td id="LC81" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
-          <td id="LC82" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">get_digit</span>(<span class="pl-k">char</span> c)</td>
-        </tr>
-        <tr>
-          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
-          <td id="LC83" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
-          <td id="LC84" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> digit = c - <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
-          <td id="LC85" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
-          <td id="LC86" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (digit &lt; <span class="pl-c1">0</span> || digit &gt; <span class="pl-c1">9</span>)</td>
-        </tr>
-        <tr>
-          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
-          <td id="LC87" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
-          <td id="LC88" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Error<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
-          <td id="LC89" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span>(<span class="pl-c1">98</span>);</td>
-        </tr>
-        <tr>
-          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
-          <td id="LC90" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
-          <td id="LC91" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
-          <td id="LC92" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (digit);</td>
-        </tr>
-        <tr>
-          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
-          <td id="LC93" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
-          <td id="LC94" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
-          <td id="LC95" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
-        </tr>
-        <tr>
-          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
-          <td id="LC96" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * get_prod - Multiplies a string of numbers by a single digit.</span></td>
-        </tr>
-        <tr>
-          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
-          <td id="LC97" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @prod: The buffer to store the result.</span></td>
-        </tr>
-        <tr>
-          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
-          <td id="LC98" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @mult: The string of numbers.</span></td>
-        </tr>
-        <tr>
-          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
-          <td id="LC99" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @digit: The single digit.</span></td>
-        </tr>
-        <tr>
-          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
-          <td id="LC100" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @zeroes: The necessary number of leading zeroes.</span></td>
-        </tr>
-        <tr>
-          <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
-          <td id="LC101" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
-        </tr>
-        <tr>
-          <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
-          <td id="LC102" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Description: If mult contains a non-digit, the function</span></td>
-        </tr>
-        <tr>
-          <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
-          <td id="LC103" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *              exits with a status value of 98.</span></td>
-        </tr>
-        <tr>
-          <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
-          <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
-          <td id="LC105" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">get_prod</span>(<span class="pl-k">char</span> *prod, <span class="pl-k">char</span> *mult, <span class="pl-k">int</span> digit, <span class="pl-k">int</span> zeroes)</td>
-        </tr>
-        <tr>
-          <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
-          <td id="LC106" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
-          <td id="LC107" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> mult_len, num, tens = <span class="pl-c1">0</span>;</td>
-        </tr>
-        <tr>
-          <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
-          <td id="LC108" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
-          <td id="LC109" class="blob-code blob-code-inner js-file-line">	mult_len = <span class="pl-c1">find_len</span>(mult) - <span class="pl-c1">1</span>;</td>
-        </tr>
-        <tr>
-          <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
-          <td id="LC110" class="blob-code blob-code-inner js-file-line">	mult += mult_len;</td>
-        </tr>
-        <tr>
-          <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
-          <td id="LC111" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
-          <td id="LC112" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (*prod)</td>
-        </tr>
-        <tr>
-          <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
-          <td id="LC113" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
-          <td id="LC114" class="blob-code blob-code-inner js-file-line">		*prod = <span class="pl-s"><span class="pl-pds">&#39;</span>x<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
-          <td id="LC115" class="blob-code blob-code-inner js-file-line">		prod++;</td>
-        </tr>
-        <tr>
-          <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
-          <td id="LC116" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
-          <td id="LC117" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
-          <td id="LC118" class="blob-code blob-code-inner js-file-line">	prod--;</td>
-        </tr>
-        <tr>
-          <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
-          <td id="LC119" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
-          <td id="LC120" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (zeroes--)</td>
-        </tr>
-        <tr>
-          <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
-          <td id="LC121" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
-          <td id="LC122" class="blob-code blob-code-inner js-file-line">		*prod = <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
-          <td id="LC123" class="blob-code blob-code-inner js-file-line">		prod--;</td>
-        </tr>
-        <tr>
-          <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
-          <td id="LC124" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
-          <td id="LC125" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
-          <td id="LC126" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> (; mult_len &gt;= <span class="pl-c1">0</span>; mult_len--, mult--, prod--)</td>
-        </tr>
-        <tr>
-          <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
-          <td id="LC127" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
-          <td id="LC128" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (*mult &lt; <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span> || *mult &gt; <span class="pl-s"><span class="pl-pds">&#39;</span>9<span class="pl-pds">&#39;</span></span>)</td>
-        </tr>
-        <tr>
-          <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
-          <td id="LC129" class="blob-code blob-code-inner js-file-line">		{</td>
-        </tr>
-        <tr>
-          <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
-          <td id="LC130" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Error<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
-          <td id="LC131" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">exit</span>(<span class="pl-c1">98</span>);</td>
-        </tr>
-        <tr>
-          <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
-          <td id="LC132" class="blob-code blob-code-inner js-file-line">		}</td>
-        </tr>
-        <tr>
-          <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
-          <td id="LC133" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
-          <td id="LC134" class="blob-code blob-code-inner js-file-line">		num = (*mult - <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>) * digit;</td>
-        </tr>
-        <tr>
-          <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
-          <td id="LC135" class="blob-code blob-code-inner js-file-line">		num += tens;</td>
-        </tr>
-        <tr>
-          <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
-          <td id="LC136" class="blob-code blob-code-inner js-file-line">		*prod = (num % <span class="pl-c1">10</span>) + <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
-          <td id="LC137" class="blob-code blob-code-inner js-file-line">		tens = num / <span class="pl-c1">10</span>;</td>
-        </tr>
-        <tr>
-          <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
-          <td id="LC138" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
-          <td id="LC139" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
-          <td id="LC140" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (tens)</td>
-        </tr>
-        <tr>
-          <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
-          <td id="LC141" class="blob-code blob-code-inner js-file-line">		*prod = (tens % <span class="pl-c1">10</span>) + <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
-          <td id="LC142" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
-          <td id="LC143" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
-          <td id="LC144" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
-        </tr>
-        <tr>
-          <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
-          <td id="LC145" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * add_nums - Adds the numbers stored in two strings.</span></td>
-        </tr>
-        <tr>
-          <td id="L146" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="146"></td>
-          <td id="LC146" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @final_prod: The buffer storing the running final product.</span></td>
-        </tr>
-        <tr>
-          <td id="L147" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="147"></td>
-          <td id="LC147" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @next_prod: The next product to be added.</span></td>
-        </tr>
-        <tr>
-          <td id="L148" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="148"></td>
-          <td id="LC148" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @next_len: The length of next_prod.</span></td>
-        </tr>
-        <tr>
-          <td id="L149" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="149"></td>
-          <td id="LC149" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L150" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="150"></td>
-          <td id="LC150" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">add_nums</span>(<span class="pl-k">char</span> *final_prod, <span class="pl-k">char</span> *next_prod, <span class="pl-k">int</span> next_len)</td>
-        </tr>
-        <tr>
-          <td id="L151" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="151"></td>
-          <td id="LC151" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L152" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="152"></td>
-          <td id="LC152" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> num, tens = <span class="pl-c1">0</span>;</td>
-        </tr>
-        <tr>
-          <td id="L153" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="153"></td>
-          <td id="LC153" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L154" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="154"></td>
-          <td id="LC154" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (*(final_prod + <span class="pl-c1">1</span>))</td>
-        </tr>
-        <tr>
-          <td id="L155" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="155"></td>
-          <td id="LC155" class="blob-code blob-code-inner js-file-line">		final_prod++;</td>
-        </tr>
-        <tr>
-          <td id="L156" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="156"></td>
-          <td id="LC156" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L157" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="157"></td>
-          <td id="LC157" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (*(next_prod + <span class="pl-c1">1</span>))</td>
-        </tr>
-        <tr>
-          <td id="L158" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="158"></td>
-          <td id="LC158" class="blob-code blob-code-inner js-file-line">		next_prod++;</td>
-        </tr>
-        <tr>
-          <td id="L159" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="159"></td>
-          <td id="LC159" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L160" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="160"></td>
-          <td id="LC160" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> (; *final_prod != <span class="pl-s"><span class="pl-pds">&#39;</span>x<span class="pl-pds">&#39;</span></span>; final_prod--)</td>
-        </tr>
-        <tr>
-          <td id="L161" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="161"></td>
-          <td id="LC161" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L162" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="162"></td>
-          <td id="LC162" class="blob-code blob-code-inner js-file-line">		num = (*final_prod - <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>) + (*next_prod - <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L163" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="163"></td>
-          <td id="LC163" class="blob-code blob-code-inner js-file-line">		num += tens;</td>
-        </tr>
-        <tr>
-          <td id="L164" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="164"></td>
-          <td id="LC164" class="blob-code blob-code-inner js-file-line">		*final_prod = (num % <span class="pl-c1">10</span>) + <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L165" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="165"></td>
-          <td id="LC165" class="blob-code blob-code-inner js-file-line">		tens = num / <span class="pl-c1">10</span>;</td>
-        </tr>
-        <tr>
-          <td id="L166" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="166"></td>
-          <td id="LC166" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L167" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="167"></td>
-          <td id="LC167" class="blob-code blob-code-inner js-file-line">		next_prod--;</td>
-        </tr>
-        <tr>
-          <td id="L168" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="168"></td>
-          <td id="LC168" class="blob-code blob-code-inner js-file-line">		next_len--;</td>
-        </tr>
-        <tr>
-          <td id="L169" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="169"></td>
-          <td id="LC169" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L170" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="170"></td>
-          <td id="LC170" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L171" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="171"></td>
-          <td id="LC171" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> (; next_len &gt;= <span class="pl-c1">0</span> &amp;&amp; *next_prod != <span class="pl-s"><span class="pl-pds">&#39;</span>x<span class="pl-pds">&#39;</span></span>; next_len--)</td>
-        </tr>
-        <tr>
-          <td id="L172" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="172"></td>
-          <td id="LC172" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L173" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="173"></td>
-          <td id="LC173" class="blob-code blob-code-inner js-file-line">		num = (*next_prod - <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L174" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="174"></td>
-          <td id="LC174" class="blob-code blob-code-inner js-file-line">		num += tens;</td>
-        </tr>
-        <tr>
-          <td id="L175" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="175"></td>
-          <td id="LC175" class="blob-code blob-code-inner js-file-line">		*final_prod = (num % <span class="pl-c1">10</span>) + <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L176" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="176"></td>
-          <td id="LC176" class="blob-code blob-code-inner js-file-line">		tens = num / <span class="pl-c1">10</span>;</td>
-        </tr>
-        <tr>
-          <td id="L177" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="177"></td>
-          <td id="LC177" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L178" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="178"></td>
-          <td id="LC178" class="blob-code blob-code-inner js-file-line">		final_prod--;</td>
-        </tr>
-        <tr>
-          <td id="L179" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="179"></td>
-          <td id="LC179" class="blob-code blob-code-inner js-file-line">		next_prod--;</td>
-        </tr>
-        <tr>
-          <td id="L180" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="180"></td>
-          <td id="LC180" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L181" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="181"></td>
-          <td id="LC181" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L182" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="182"></td>
-          <td id="LC182" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (tens)</td>
-        </tr>
-        <tr>
-          <td id="L183" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="183"></td>
-          <td id="LC183" class="blob-code blob-code-inner js-file-line">		*final_prod = (tens % <span class="pl-c1">10</span>) + <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L184" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="184"></td>
-          <td id="LC184" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L185" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="185"></td>
-          <td id="LC185" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L186" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="186"></td>
-          <td id="LC186" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
-        </tr>
-        <tr>
-          <td id="L187" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="187"></td>
-          <td id="LC187" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * main - Multiplies two positive numbers.</span></td>
-        </tr>
-        <tr>
-          <td id="L188" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="188"></td>
-          <td id="LC188" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @argv: The number of arguments passed to the program.</span></td>
-        </tr>
-        <tr>
-          <td id="L189" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="189"></td>
-          <td id="LC189" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @argc: An array of pointers to the arguments.</span></td>
-        </tr>
-        <tr>
-          <td id="L190" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="190"></td>
-          <td id="LC190" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
-        </tr>
-        <tr>
-          <td id="L191" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="191"></td>
-          <td id="LC191" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Description: If the number of arguments is incorrect or one number</span></td>
-        </tr>
-        <tr>
-          <td id="L192" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="192"></td>
-          <td id="LC192" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *              contains non-digits, the function exits with a status of 98.</span></td>
-        </tr>
-        <tr>
-          <td id="L193" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="193"></td>
-          <td id="LC193" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: Always 0.</span></td>
-        </tr>
-        <tr>
-          <td id="L194" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="194"></td>
-          <td id="LC194" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L195" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="195"></td>
-          <td id="LC195" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">main</span>(<span class="pl-k">int</span> argc, <span class="pl-k">char</span> *argv[])</td>
-        </tr>
-        <tr>
-          <td id="L196" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="196"></td>
-          <td id="LC196" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L197" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="197"></td>
-          <td id="LC197" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">char</span> *final_prod, *next_prod;</td>
-        </tr>
-        <tr>
-          <td id="L198" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="198"></td>
-          <td id="LC198" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> size, <span class="pl-c1">index</span>, digit, zeroes = <span class="pl-c1">0</span>;</td>
-        </tr>
-        <tr>
-          <td id="L199" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="199"></td>
-          <td id="LC199" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L200" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="200"></td>
-          <td id="LC200" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (argc != <span class="pl-c1">3</span>)</td>
-        </tr>
-        <tr>
-          <td id="L201" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="201"></td>
-          <td id="LC201" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L202" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="202"></td>
-          <td id="LC202" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Error<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L203" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="203"></td>
-          <td id="LC203" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span>(<span class="pl-c1">98</span>);</td>
-        </tr>
-        <tr>
-          <td id="L204" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="204"></td>
-          <td id="LC204" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L205" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="205"></td>
-          <td id="LC205" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L206" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="206"></td>
-          <td id="LC206" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (*(argv[<span class="pl-c1">1</span>]) == <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>)</td>
-        </tr>
-        <tr>
-          <td id="L207" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="207"></td>
-          <td id="LC207" class="blob-code blob-code-inner js-file-line">		argv[<span class="pl-c1">1</span>] = <span class="pl-c1">iterate_zeroes</span>(argv[<span class="pl-c1">1</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L208" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="208"></td>
-          <td id="LC208" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (*(argv[<span class="pl-c1">2</span>]) == <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>)</td>
-        </tr>
-        <tr>
-          <td id="L209" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="209"></td>
-          <td id="LC209" class="blob-code blob-code-inner js-file-line">		argv[<span class="pl-c1">2</span>] = <span class="pl-c1">iterate_zeroes</span>(argv[<span class="pl-c1">2</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L210" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="210"></td>
-          <td id="LC210" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (*(argv[<span class="pl-c1">1</span>]) == <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-cce">\0</span><span class="pl-pds">&#39;</span></span> || *(argv[<span class="pl-c1">2</span>]) == <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-cce">\0</span><span class="pl-pds">&#39;</span></span>)</td>
-        </tr>
-        <tr>
-          <td id="L211" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="211"></td>
-          <td id="LC211" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L212" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="212"></td>
-          <td id="LC212" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>0<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L213" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="213"></td>
-          <td id="LC213" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> (<span class="pl-c1">0</span>);</td>
-        </tr>
-        <tr>
-          <td id="L214" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="214"></td>
-          <td id="LC214" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L215" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="215"></td>
-          <td id="LC215" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L216" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="216"></td>
-          <td id="LC216" class="blob-code blob-code-inner js-file-line">	size = <span class="pl-c1">find_len</span>(argv[<span class="pl-c1">1</span>]) + <span class="pl-c1">find_len</span>(argv[<span class="pl-c1">2</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L217" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="217"></td>
-          <td id="LC217" class="blob-code blob-code-inner js-file-line">	final_prod = <span class="pl-c1">create_xarray</span>(size + <span class="pl-c1">1</span>);</td>
-        </tr>
-        <tr>
-          <td id="L218" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="218"></td>
-          <td id="LC218" class="blob-code blob-code-inner js-file-line">	next_prod = <span class="pl-c1">create_xarray</span>(size + <span class="pl-c1">1</span>);</td>
-        </tr>
-        <tr>
-          <td id="L219" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="219"></td>
-          <td id="LC219" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L220" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="220"></td>
-          <td id="LC220" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> (<span class="pl-c1">index</span> = <span class="pl-c1">find_len</span>(argv[<span class="pl-c1">2</span>]) - <span class="pl-c1">1</span>; <span class="pl-c1">index</span> &gt;= <span class="pl-c1">0</span>; <span class="pl-c1">index</span>--)</td>
-        </tr>
-        <tr>
-          <td id="L221" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="221"></td>
-          <td id="LC221" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L222" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="222"></td>
-          <td id="LC222" class="blob-code blob-code-inner js-file-line">		digit = <span class="pl-c1">get_digit</span>(*(argv[<span class="pl-c1">2</span>] + <span class="pl-c1">index</span>));</td>
-        </tr>
-        <tr>
-          <td id="L223" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="223"></td>
-          <td id="LC223" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">get_prod</span>(next_prod, argv[<span class="pl-c1">1</span>], digit, zeroes++);</td>
-        </tr>
-        <tr>
-          <td id="L224" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="224"></td>
-          <td id="LC224" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">add_nums</span>(final_prod, next_prod, size - <span class="pl-c1">1</span>);</td>
-        </tr>
-        <tr>
-          <td id="L225" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="225"></td>
-          <td id="LC225" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L226" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="226"></td>
-          <td id="LC226" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> (<span class="pl-c1">index</span> = <span class="pl-c1">0</span>; final_prod[<span class="pl-c1">index</span>]; <span class="pl-c1">index</span>++)</td>
-        </tr>
-        <tr>
-          <td id="L227" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="227"></td>
-          <td id="LC227" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L228" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="228"></td>
-          <td id="LC228" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (final_prod[<span class="pl-c1">index</span>] != <span class="pl-s"><span class="pl-pds">&#39;</span>x<span class="pl-pds">&#39;</span></span>)</td>
-        </tr>
-        <tr>
-          <td id="L229" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="229"></td>
-          <td id="LC229" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">putchar</span>(final_prod[<span class="pl-c1">index</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L230" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="230"></td>
-          <td id="LC230" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L231" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="231"></td>
-          <td id="LC231" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">putchar</span>(<span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-cce">\n</span><span class="pl-pds">&#39;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L232" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="232"></td>
-          <td id="LC232" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L233" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="233"></td>
-          <td id="LC233" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">free</span>(next_prod);</td>
-        </tr>
-        <tr>
-          <td id="L234" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="234"></td>
-          <td id="LC234" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">free</span>(final_prod);</td>
-        </tr>
-        <tr>
-          <td id="L235" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="235"></td>
-          <td id="LC235" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L236" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="236"></td>
-          <td id="LC236" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (<span class="pl-c1">0</span>);</td>
-        </tr>
-        <tr>
-          <td id="L237" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="237"></td>
-          <td id="LC237" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">endif</span></td>
         </tr>
   </table>
 </div>
@@ -2489,7 +1577,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/bdbaraban/holbertonschool-low_level_programming/blame/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/101-mul.c">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/bdbaraban/holbertonschool-low_level_programming/blame/83a29e2538fbb76a68299839e7969a07154d97f6/0x0B-more_malloc_free/holberton.h">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/bdbaraban/holbertonschool-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
