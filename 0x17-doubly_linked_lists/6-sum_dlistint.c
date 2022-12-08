@@ -5,7 +5,7 @@
  *
  * Return: The sum of all the data.
  */
- 
+
 int sum_dlistint(dlistint_t *head)
 {
 	int sum = 0;
