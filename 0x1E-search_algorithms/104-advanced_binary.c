@@ -12,6 +12,7 @@
   *         Else, index where the value is located.
   * Description: prints [sub]array being searched after each change.
   */
+
 int advanced_binary_recursive(int *array, size_t left, size_t right, int value)
 {
 	size_t i;
@@ -42,6 +43,7 @@ int advanced_binary_recursive(int *array, size_t left, size_t right, int value)
   *         Else, first index where the value is located.
   * Description: prints [sub]array being searched after each change.
   */
+
 int advanced_binary(int *array, size_t size, int value)
 {
 	if (array == NULL || size == 0)
